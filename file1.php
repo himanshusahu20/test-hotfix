@@ -5,8 +5,3 @@ function needed()
 {
     echo 'this function is needed';
 }
-
-function notNeeded()
-{
-    echo 'this function is not needed in future';
-}
