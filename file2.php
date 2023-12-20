@@ -1,2 +1,2 @@
 <?php
-echo 'this is updated file2';
+echo 'this is updated file2. hotfix done.';
