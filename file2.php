@@ -1,2 +1,2 @@
 <?php
-echo 'this is file2';
+echo 'this is updated file2';
